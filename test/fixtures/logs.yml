@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  functionality: 1
+  method: MyString
+  error: MyString
+  ip: MyString
+  log_type: 1
+
+two:
+  user_id: 1
+  functionality: 1
+  method: MyString
+  error: MyString
+  ip: MyString
+  log_type: 1
