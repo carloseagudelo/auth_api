@@ -35,5 +35,3 @@
 
 
 * **Lugar:** (Sapiencia) Medellín Colombia
-
-* **Contacto:** desarrolladores: carlos.agudelo@sapiencia.gov.co (Carlos Agudelo) informatica@sapiencia.gov.co (Wilmer Jaramillo), sebasdeldi@hotmail.com (Sebastian Delgado), auxiliar.informatica@sapiencia.gov.co (Juan Lopez)
